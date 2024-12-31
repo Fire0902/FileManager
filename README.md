@@ -1,2 +1,2 @@
 # FileManager
-a website made with react; js and html css
+a website made with react js and html css
